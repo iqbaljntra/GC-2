@@ -1,0 +1,1 @@
+['capital_gain', 'education_num', 'hours_per_week']
